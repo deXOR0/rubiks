@@ -17,7 +17,7 @@ Created by XOR0
 
 # How to use
 1. Open the shortcut
-2. Click scramble your rubiks cube with the generated sequence
+2. Scramble your rubiks cube with the generated sequence
 3. Press and hold the space button
 4. Release when you are ready to solve
 5. Press space again once the cube is solved
