@@ -1,0 +1,32 @@
+Scramble: U R' B2 R' F' L' R D' F R L R' B2 D' B' R2 B2 D B L' F2
+Solve Time: 75.67878651618958
+Formatted Time: 01:15.68
+
+Scramble: F R2 L2 U' L' D2 F B2 R2 B2 F' R F2 D' B2 F L2 F U B2 D
+Solve Time: 64.82240557670593
+Formatted Time: 01:04.82
+
+Scramble: D B' R2 B U F2 D' U2 L2 D R' U F' B U' D R F L B2 R'
+Solve Time: 44.395833015441895
+Formatted Time: 00:44.40
+
+Scramble: F' D' F R' L2 F2 L' U F D2 B F2 B' R' F' D U2 F D2 F2 B2
+Solve Time: 61.356109380722046
+Formatted Time: 01:01.36
+
+Scramble: L2 B2 U F D' F2 D L F' U' F' D F2 D R B U' B' R' L' F2
+Solve Time: 52.66294765472412
+Formatted Time: 00:52.66
+
+Scramble: B' U F2 B L R B F' R D' U2 R B D F R' D2 L B F2 R2
+Solve Time: 62.097761154174805
+Formatted Time: 01:02.10
+
+Scramble: B' F' D U' D' U2 B R B' F B' L2 B2 R' U2 F' U' B' L' U2 F2
+Solve Time: 62.82372522354126
+Formatted Time: 01:02.82
+
+Scramble: B' F2 L2 U R2 U2 R F2 L B2 F2 R' B' R B' F' D2 F' R' D2 R
+Solve Time: 62.53604698181152
+Formatted Time: 01:02.54
+
